@@ -1,0 +1,158 @@
+/*
+* @Author: Administrator
+* @Date:   2017-09-29 22:49:54
+* @Last Modified by:   Administrator
+* @Last Modified time: 2017-09-30 02:11:51
+*/
+/* 头部开始 */
+
+*{
+		margin: 0 auto;
+		padding: 0;
+		list-style: none;
+}
+
+a{
+	text-decoration: none;
+}
+.iconfont{
+		font-family: 'iconfont' !important;
+		font-size: 12px ;
+		color: #ff0036;
+		font-style: normal;
+
+}
+.iconfont2{
+		font-family: 'iconfont' !important;
+		font-size: 3px ;
+		color: #999999;
+		font-style: normal;
+
+}
+.iconfont3{
+		font-family: 'iconfont' !important;
+		font-size: 15px ;
+		color: white;
+		font-style: normal;
+
+}
+
+
+header{
+		width: auto;
+		height: 33px;
+		background: #f2f2f2;
+		font-size: 12px;
+		color: #999999;
+		line-height: 33px;
+		border-bottom: 1px solid #e5e5e5;
+
+}
+header .center{
+		width: 1230px;
+		height: 100%;
+		/* background: red; */
+		margin: 0 auto;
+
+}
+header .left1{
+		width: 84px;
+		height: 100%;
+		float: left;
+		/* background: yellow; */
+
+		
+}
+header .left2{
+		width: 124px;
+		height: 100%;
+		float: left;
+		/* background: green; */
+}
+header .left2 li a{
+		float: left;
+		margin-left: 20px;
+		color: #999999;
+}
+header .left2 li a:hover{
+	
+		color: #ff0036;
+}
+/* header右侧开始 */
+header .right{
+		width: 620px;
+		height: 100%;
+		/* background: yellow; */
+		float: right;
+}
+header .right li a{
+		float: left;
+		margin-left:16px;
+		color: #999999;
+}
+header .right li a:hover{
+		
+		color: #ff0036;
+}
+
+/* 头部结束 */
+/* 导航开始 */
+nav{
+		width: 100%;
+		height: 166px;
+		/* background: yellow; */
+
+}
+nav .center{
+		width: 1230px;
+		height: 100%;
+		/* background: red; */
+		margin: 0 auto;
+}
+
+nav .logo{
+		width: 200px;
+		height: 131px;
+		/* background: green; */
+		margin-left: 0;
+		float: left;
+}
+.logoimg{
+		display: block;
+		width: 100%;
+		height: 100%;
+		/* background: pink; */
+}
+nav .logodibu{
+		width: 200px;
+		height: 35px;
+		background: black;
+		margin-left: 0;
+		font-size: 15px;
+		color: white;
+		line-height: 35px;
+
+
+}
+nav .logodibuword1{
+		width: 15px;
+		height: 100%;
+		background: #ff0036;
+		float: left;
+		margin-left: 14px;
+}
+nav .logodibuword2{
+		width: 64px;
+		height: 100%;
+		background: #ff0036;
+		float: left;
+		margin-left: 14px;
+}
+nav .sousuokuang{
+		width: 625px;
+		height: 40px;
+		background: blue;
+		float: left;
+		
+}
+	
